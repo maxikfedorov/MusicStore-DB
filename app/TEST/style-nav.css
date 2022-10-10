@@ -1,0 +1,26 @@
+.button-blcok {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+.button-blcok .wrapper {
+    margin-right: auto;
+}
+
+.content-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.content-box .content__tittle {
+    margin: 10px;
+    width: 450px;
+    height: 200px;
+}
+.content-box .show_1 {
+    background: #be7777;
+}
+.content-box .show_2 {
+    background: #9b0404;
+}

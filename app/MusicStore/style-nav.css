@@ -1,0 +1,16 @@
+.button-blcok {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 45px;
+}
+.button-blcok .wrapper {
+    margin-right: auto;
+}
+
+.content-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
